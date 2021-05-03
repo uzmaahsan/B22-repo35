@@ -1,3 +1,6 @@
 Helloworld{
+	public static void {
+		
+	}
 	
 }
